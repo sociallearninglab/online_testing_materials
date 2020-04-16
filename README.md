@@ -7,20 +7,31 @@ The materials shared in this repo is developed by ...
 ## How does online testing work:
 Some caveates: (by Hyo) What our procedure is useful for/ could be applied to vs. other types & labs' resources.
 
-Work flow:
 
-A. Before the test day:
+Here's the work flow:
 
-B. On the test day: 
-  0. Rapport with children; Introduce the study to parents
-  1. Calibration part 1, lab-sdandardized) + sound check
-  2. Parental Consent
-  3. Calibration part 2, project-dependent
-  4. Children Asent + study slides
-  5. feedback slides (+optional questions for recording)/ shortened version
-  6. Certificate (potentially)
+### A. Before the test day:
+  1. Lab IRB. (See [ours](link))
+  2. Set up Zoom: <br>
+    a) Researcher Instruction Guide. (See [ours](link)) <br>
+    b) Use a consistent virtual background. (Example [here](link))
+  3. Recruiting parents: <br>
+    a) Email templates. (See [ours](link)) <br> 
+    b) Parent Instruction guide. (See [ours](link)) <br>
+  3. 
 
-C. After the test day:
+### B. On the test day: 
+  1. Rapport with children; Introduce the study to parents
+  2. Calibration part 1, lab-sdandardized) + sound check
+  3. Parental Consent
+  4. Calibration part 2, project-dependent
+  5. Children Asent + study slides
+  6. feedback slides (+optional questions for recording)/ shortened version
+  7. Certificate (potentially)
+
+### C. After the test day:
+  1. Certificates for children. ([Example](link))
+  2. Data log-in.
 
 
 ## License
