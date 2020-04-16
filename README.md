@@ -8,9 +8,10 @@ The materials shared in this repo is developed by ...
 Some caveates: (by Hyo) What our procedure is useful for/ could be applied to vs. other types & labs' resources.
 
 Work flow:
-A. Before the testing day:
 
-B. On the testing day: 
+A. Before the test day:
+
+B. On the test day: 
   0. Rapport with children; Introduce the study to parents
   1. Calibration part 1, lab-sdandardized) + sound check
   2. Parental Consent
@@ -18,6 +19,8 @@ B. On the testing day:
   4. Children Asent + study slides
   5. feedback slides (+optional questions for recording)/ shortened version
   6. Certificate (potentially)
+
+C. After the test day:
 
 
 ## License
