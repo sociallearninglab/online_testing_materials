@@ -6,12 +6,11 @@ Contributors: Hyowon Gweon, Xi Jia Zhou, Jessa Stegall, Brandon Carrillo, Megan 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-If you use our materials to run studies online, please cite this repository:
+This is a repository to share Stanford Social Learning Lab's online testing procedure and materials. 
+These materials are developed by members of the Social Learning Lab (PI: Hyowon Gweon). We are particularly grateful to our students/post-docs (Mika Asaba, Sophie Bridgers, Griffin Dietz, Yang Wu, and Natalia Vélez) and lab staff who played critical roles (Brandon Carrillo, Megan Merrick, Jessa Stegall, and Xijia Zhou. 
 
-**APA:**
-Social Learning Lab (2020). Online Testing: Startup Guide and Materials. Github. https://github.com/sociallearninglab/online_testing_materials
+Materials in this repository are licensed (CC-BY-NC); what this means is that you are free to modify or revise the materials as you see fit for your lab, as long as you credit the original source in any resulting publications. To cite our materials, you can use this DOI: [insert]. e.g., 
 
-BibTeX:
 ```
 @misc{online_testing,
     author       = {Social Learning Lab},
