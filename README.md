@@ -16,7 +16,7 @@ Here's the work flow:
     a) Researcher Instruction Guide. (See [ours](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/Lab%20Testing%20Online%20Prep%20Guide.key)) <br>
     b) Use a consistent virtual background. (Example [here](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/virtual_background.jpg))
   3. Recruiting parents: <br>
-    a) Recruitement Poster. (See [ours](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/SLL%20Participation%20Flyer.pdf)) 
+    a) Recruitement Poster. (See [ours](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/SLL%20Participation%20Flyer.pdf)) <br>
     b) Email templates.   
     c) Parent Instruction guide. (See [ours](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/parent_instruction_guide.key)) 
   3. 
