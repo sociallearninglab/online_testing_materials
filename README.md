@@ -1,4 +1,4 @@
-# Welcome
+<img src='supplement_images/Readme_banner.png'>
 
 This is a repo to share Stanford Social Learning Lab's online testing's procedure and materials. 
 The materials shared in this repo is developed by Jessa Stegall, Brandon Carrillo, Megan Merrick, Stephen Sanders, Natalia Velez, Sophie Bridgers and other main members at the Social Learning Lab at Stanford. 
