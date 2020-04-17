@@ -1,14 +1,23 @@
 # Welcome
 
 This is a repo to share Stanford Social Learning Lab's online testing's procedure and materials. 
-The materials shared in this repo is developed by ...
+The materials shared in this repo is developed by Jessa Stegall, Brandon Carrillo, Megan Merrick, Stephen Sanders, Natalia Velez, Sophie Bridgers and other main members at the Social Learning Lab at Stanford. 
+
+To cite our materials, you can use this DOI: [insert]
+
+Some caveates: the procedure and materials developed here are suitable for labs who plan to run scheduled video-chats using Zoom & video-recording in your studies. The goal is to re-create in-person testing experience as much as possible. If you want your studies to be available for participation at anytime, you can check at Lookit, Panda, etc.
+
+Recently, we launched the [ChildrenHelpingScience.com](https://childrenhelpingscience.com/), a collective effort to test children online from around the world. Please join us!
 
 
-## How does online testing work:
-Some caveates: (by Hyo) What our procedure is useful for/ could be applied to vs. other types & labs' resources.
+## How does our online testing work:
 
+To see an example video for how we conduct a study online, you can check it [here]. The complete slide we use (including calibration slides, parental consent, and feedback slides, except for specific study slides), you can download it from [here](https://github.com/sociallearninglab/online_testing_materials/blob/master/Example/Standardized_Slides_Sharing.key).
 
-Here's the work flow:
+For the entire work flow, the content below is organized chronologically: preparations before the test day, during the test day, and after the test day. Each item has a link which you can download the raw materials we use in our own testing. All materials are provided with their raw format whenever possible, such as the keynote, for your convenience to edit and reuse in your studies. Feel free to rearrange each component suitable for your study. If you still have questions about any of the steps or materials, or if the link isn't working, you can reach us at: [insert email].
+
+For people who aren't familiar with Github, to download the material, you can click 'Download' on the top right on each partticular meterial's page the link leads you to.
+ 
 
 ### A. Before the test day:
   1. Lab IRB. 
@@ -22,18 +31,17 @@ Here's the work flow:
   3. 
 
 ### B. On the test day: 
-  1. Rapport with children; Introduce the study to parents
-  2. Calibration part 1, lab-sdandardized) + sound check
-  3. Parental Consent
-  4. Calibration part 2, project-dependent
-  5. Children Asent + study slides
-  6. feedback slides (+optional questions for recording)/ shortened version
-  7. Certificate (potentially)
+  1. Rapport with children; Introduce the study to parents (like in-person testing).
+  2. Lab standardized calibration slides & sound check (with a short video clip of your choice).
+  3. Parental Consent.
+  4. Study specific video screen calibration slide (researchers can self-adjust).
+  5. Children Asent + study slides (like in-person testing).
+  6. Feedback slides for testing.
+     (You can also use this shortened version).
 
 ### C. After the test day:
   1. Certificates for children. 
   2. Data log-in.
-
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
