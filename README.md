@@ -32,12 +32,12 @@ For people who aren't familiar with Github, to download the material, you can cl
 
 ### B. On the test day: 
   1. Rapport with children; Introduce the study to parents (like in-person testing).
-  2. Lab standardized calibration slides & sound check (with a short video clip of your choice).
-  3. Parental Consent.
-  4. Study specific video screen calibration slide (researchers can self-adjust).
+  2. Lab standardized calibration slides & sound check (with a short video clip of your choice). (Example [here](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/Calibration_Part1.key))
+  3. Parental Consent. (Example [here](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/Parental_Consent.key))
+  4. Study specific video screen calibration slide (researchers can self-adjust). (Example [here](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/Calibration_Part2.key))
   5. Children Asent + study slides (like in-person testing).
-  6. Feedback slides for testing.
-     (You can also use this shortened version).
+  6. Feedback slides for testing. (Example [here](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/Feedback_Slides.key))
+     (You can also use this shortened version). (See [ours](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/Shortened_Follow_Up.key))
 
 ### C. After the test day:
   1. Certificates for children. 
