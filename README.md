@@ -1,9 +1,9 @@
 <img src='supplement_images/Readme_banner.png'>
 
-This is a repo to share Stanford Social Learning Lab's online testing procedure and materials. 
-The materials shared in this repo are developed by Jessa Stegall, Brandon Carrillo, Megan Merrick, Stephen Sanders, Natalia Velez, Sophie Bridgers, and other main members at the Social Learning Lab at Stanford. 
+This is a repository to share Stanford Social Learning Lab's online testing procedure and materials. 
+These materials are developed by members of the Social Learning Lab (PI: Hyowon Gweon). We are particularly grateful to our students/post-docs (Mika Asaba, Sophie Bridgers, Griffin Dietz, Yang Wu, and Natalia Vélez) and lab staff who played critical roles (Brandon Carrillo, Megan Merrick, Jessa Stegall, and Xijia Zhou. 
 
-To cite our materials, you can use this DOI: [insert]
+Materials in this repository are licensed (CC-BY-NC); what this means is that you are free to modify or revise the materials as you see fit for your lab, as long as you credit the original source in any resulting publications. To cite our materials, you can use this DOI: [insert]. e.g., [APA citation].
 
 Some caveats: the procedure and materials developed here are suitable for labs who plan to run scheduled video chats using Zoom & video-recording in your studies. The goal is to recreate the in-person testing experience as much as possible. If you want your studies to be available for participation at anytime, you can check Lookit, Panda, etc.
 
