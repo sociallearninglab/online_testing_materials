@@ -1,24 +1,24 @@
 <img src='supplement_images/Readme_banner.png'>
 
-This is a repo to share Stanford Social Learning Lab's online testing's procedure and materials. 
-The materials shared in this repo is developed by Jessa Stegall, Brandon Carrillo, Megan Merrick, Stephen Sanders, Natalia Velez, Sophie Bridgers and other main members at the Social Learning Lab at Stanford. 
+This is a repo to share Stanford Social Learning Lab's online testing procedure and materials. 
+The materials shared in this repo are developed by Jessa Stegall, Brandon Carrillo, Megan Merrick, Stephen Sanders, Natalia Velez, Sophie Bridgers, and other main members at the Social Learning Lab at Stanford. 
 
 To cite our materials, you can use this DOI: [insert]
 
-Some caveates: the procedure and materials developed here are suitable for labs who plan to run scheduled video-chats using Zoom & video-recording in your studies. The goal is to re-create in-person testing experience as much as possible. If you want your studies to be available for participation at anytime, you can check at Lookit, Panda, etc.
+Some caveats: the procedure and materials developed here are suitable for labs who plan to run scheduled video chats using Zoom & video-recording in your studies. The goal is to recreate the in-person testing experience as much as possible. If you want your studies to be available for participation at anytime, you can check Lookit, Panda, etc.
 
-Recently, we launched the [ChildrenHelpingScience.com](https://childrenhelpingscience.com/), a collective effort to test children online from around the world. Please join us!
+Recently, we launched [ChildrenHelpingScience.com](https://childrenhelpingscience.com/), a collective effort to test children online from around the world. Please join us!
 
 
-## How does our online testing work:
+## How our online testing works:
 
-To see an example video for how we conduct a study online, you can check it [here]. The complete slide we use (including calibration slides, parental consent, and feedback slides, except for specific study slides), you can download it from [here](https://github.com/sociallearninglab/online_testing_materials/blob/master/Example/Standardized_Slides_Sharing.key).
+To see an example video for how we conduct a study online, you can check [here]. The complete slides we use (including calibration slides, parental consent, and feedback slides, except for specific study slides) can be downloaded from [here](https://github.com/sociallearninglab/online_testing_materials/blob/master/Example/Standardized_Slides_Sharing.key).
 
-For the entire work flow, the content below is organized chronologically: preparations before the test day, during the test day, and after the test day. Each item has a link which you can download the raw materials we use in our testing. All materials are provided with their raw format whenever possible, such as the keynote file, for your convenience to edit and reuse in your studies. Feel free to rearrange each component suitable for your study. We will update each material individually when there's a new version.
+For the entire work flow, the content below is organized chronologically: preparations before the test day, during the test day, and after the test day. Each item has a link from which you can download the raw materials we use in our testing. All materials are provided with their raw format whenever possible, such as the keynote file, for your convenience to edit and reuse in your studies. Feel free to rearrange each component suitable for your study. We will update all materials individually when there is a new version.
 
 If you still have questions about any of the steps or materials, or if the link isn't working, you can reach us at: [insert email].
 
-For people who aren't familiar with Github, to download the material, you can click 'Download' on the top right on each meterial's page. <br>
+For people who aren't familiar with Github, to download the material, you can click 'Download' on the top right of each meterial's page. <br>
 <img src='supplement_images/github_download_button.png' width = '1000' height ='200'>
 
 ### A. Before the test day:
@@ -37,7 +37,7 @@ For people who aren't familiar with Github, to download the material, you can cl
   2. Lab standardized calibration slides & sound check (with a short video clip of your choice). (See [ours](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/Calibration_Part1.key))
   3. Parental Consent. (See [ours](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/Parental_Consent.key))
   4. Study specific video screen calibration slide (researchers can self-adjust). (See [ours](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/Calibration_Part2.key))
-  5. Children Asent + study slides (like in-person testing).
+  5. Children Assent + study slides (like in-person testing).
   6. Feedback slides for testing. (See [ours](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/Feedback_Slides.key))
      (You can also use this shortened version). (See [ours](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/Shortened_Follow_Up.key))
 
