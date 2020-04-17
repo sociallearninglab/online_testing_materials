@@ -11,13 +11,14 @@ Some caveates: (by Hyo) What our procedure is useful for/ could be applied to vs
 Here's the work flow:
 
 ### A. Before the test day:
-  1. Lab IRB. (See [ours](link))
+  1. Lab IRB. 
   2. Set up Zoom: <br>
-    a) Researcher Instruction Guide. (See [ours](link)) <br>
-    b) Use a consistent virtual background. (Example [here](link))
+    a) Researcher Instruction Guide. (See [ours](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/Lab%20Testing%20Online%20Prep%20Guide.key)) <br>
+    b) Use a consistent virtual background. (Example [here](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/virtual_background.jpg))
   3. Recruiting parents: <br>
-    a) Email templates. (See [ours](link)) <br> 
-    b) Parent Instruction guide. (See [ours](link)) <br>
+    a) Recruitement Poster. (See [ours](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/SLL%20Participation%20Flyer.pdf)) <br>  
+    b) Email templates. 
+    b) Parent Instruction guide. (See [ours](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/parent_instruction_guide.key)) <br>
   3. 
 
 ### B. On the test day: 
@@ -30,7 +31,7 @@ Here's the work flow:
   7. Certificate (potentially)
 
 ### C. After the test day:
-  1. Certificates for children. ([Example](link))
+  1. Certificates for children. 
   2. Data log-in.
 
 
