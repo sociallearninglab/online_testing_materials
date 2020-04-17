@@ -16,8 +16,8 @@ To see an example video for how we conduct a study online, you can check it [her
 
 For the entire work flow, the content below is organized chronologically: preparations before the test day, during the test day, and after the test day. Each item has a link which you can download the raw materials we use in our own testing. All materials are provided with their raw format whenever possible, such as the keynote, for your convenience to edit and reuse in your studies. Feel free to rearrange each component suitable for your study. If you still have questions about any of the steps or materials, or if the link isn't working, you can reach us at: [insert email].
 
-For people who aren't familiar with Github, to download the material, you can click 'Download' on the top right on each partticular meterial's page the link leads you to.
- 
+For people who aren't familiar with Github, to download the material, you can click 'Download' on the top right on each meterial's page. <br>
+<img src='supplement_images/github_download_button.png' width = '1000' height ='200'>
 
 ### A. Before the test day:
   1. Lab IRB. 
