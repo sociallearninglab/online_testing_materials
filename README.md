@@ -7,7 +7,7 @@ Contributors: Hyowon Gweon, Xi Jia Zhou, Jessa Stegall, Brandon Carrillo, Megan 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 This is a repository to share Stanford Social Learning Lab's online testing procedure and materials. 
-These materials are developed by members of the Social Learning Lab (PI: Hyowon Gweon). We are particularly grateful to our students/post-docs (Mika Asaba, Sophie Bridgers, Griffin Dietz, Yang Wu, and Natalia Vélez) and lab staff who played critical roles (Brandon Carrillo, Megan Merrick, Jessa Stegall, and Xijia Zhou. 
+These materials are developed by members of the Social Learning Lab (PI: Hyowon Gweon). We are particularly grateful to our students/post-docs (Mika Asaba, Sophie Bridgers, Aaron Chuey, Griffin Dietz, Yang Wu, and Natalia Vélez) and lab staff who played critical roles (Brandon Carrillo, Megan Merrick, Jessa Stegall, and Xijia Zhou. 
 
 Materials in this repository are licensed (CC-BY-NC); what this means is that you are free to modify or revise the materials as you see fit for your lab, as long as you credit the original source in any resulting publications. To cite our materials, you can use this DOI: [insert]. e.g., 
 
@@ -30,7 +30,7 @@ TODO: CHECK CITATION
 
 The procedure and materials developed here are suitable for labs who plan to run scheduled video chats using Zoom. The goal is to recreate the in-person testing experience as much as possible.
 
-We recently launched [ChildrenHelpingScience.com](https://childrenhelpingscience.com/), a collective effort to test children online from around the world. If you are developing your own online studies, come join us! You can find more information on how to add your study [here](https://childrenhelpingscience.com/add-study). 
+We recently launched Parent Researcher Collaborative: [ChildrenHelpingScience.com](https://childrenhelpingscience.com/), a collective effort to test children online from around the world. If you are developing your own online studies, come join us! You can find more information on how to add your study [here](https://childrenhelpingscience.com/add-study). 
  
 ## Startup guide
 
