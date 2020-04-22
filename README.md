@@ -53,7 +53,7 @@ Click through the repository or any of the quick links in the Table of Contents 
 
 Before testing:
 
-  1. Lab IRB. 
+  1. Lab IRB. (You can see our Parent Online Consent Form from [here] (insert link) <br>
   2. Set up Zoom: <br>
     a) Researcher Instruction Guide. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/Lab%20Testing%20Online%20Prep%20Guide.key)) <br>
     b) Use a consistent virtual background. (Example [here](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/virtual_background.jpg))
