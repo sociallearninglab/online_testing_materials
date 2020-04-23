@@ -35,7 +35,7 @@ The procedure and materials developed here are suitable for labs who plan to run
 
 ### Downloading this repository
 You can clone this repository ([instructions](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)) or download it as a zip file by clicking the 'Download' button at the top of this page: <br>
-<img src='misc_files/github_download_button.png' width = '1000' height ='200'>
+<img src='misc_files/github_download_button_new.png' width = '1000' height ='200'>
 
 
 ### Materials
