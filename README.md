@@ -49,7 +49,7 @@ Click through the repository or any of the quick links in the Table of Contents 
 
 ### Online testing demo
 
-This video is an example online testing session recorded from the participant’s point of view:<br>
+This video is a mock online testing session recorded from the participant’s point of view. The video features some of our lab members (Natalia Vélez and Xi Jia Zhou), so please use it for training purposes only, and do not post it publicly without checking in with us.:<br>
 * [Demonstration video (Participant View)](https://nyu.databrary.org/volume/1127/slot/45331/-?asset=235884)
 
 The boilerplate used in this study session (consenting, video calibration, feedback questions) and virtual background used by the experimenter can be downloaded from the ([`2_during_testing` folder](https://github.com/sociallearninglab/online_testing_materials/tree/master/2_during_testing)).
