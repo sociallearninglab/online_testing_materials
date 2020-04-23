@@ -42,7 +42,7 @@ You can clone this repository ([instructions](https://help.github.com/en/github/
 
 The contents of this repository are organized chronologically: We have included materials to recruit and schedule participants *before testing* (`1_before_testing`), to use *during testing* (`2_during_testing`), and to follow up with participants *After testing* (`3_after_testing`). 
 
-(`2_during_testing`) also contains a file keynote file that includes the slides for an entire session (except for the actual study slides):([SLL_Standardized_Slides_042020.key](https://github.com/sociallearninglab/online_testing_materials/blob/master/2_during_testing/SLL_Standardized_Slides_042020.key)).
+(`2_during_testing`) also contains a keynote file that includes the slides for an entire session (except for the actual study slides):([SLL_Standardized_Slides_042020.key](https://github.com/sociallearninglab/online_testing_materials/blob/master/2_during_testing/SLL_Standardized_Slides_042020.key)).
 
 Click through the repository or any of the quick links in the Table of Contents to check out individual files. All materials are provided in their original form when possible (e.g., Keynote presentations) for your convenience to edit and reuse in your own studies. We will update testing materials in this repository periodically.
 
