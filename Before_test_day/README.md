@@ -1,1 +1,1 @@
-This folder contains maeterials we use before the test day.
+This folder contains materials we use before the test day.
