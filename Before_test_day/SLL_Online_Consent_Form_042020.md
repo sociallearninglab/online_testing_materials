@@ -50,7 +50,8 @@ to the broader public (Level 3). These additional levels of consent help us teac
 and communicate our research to others, but they are optional.  At the end of the session, 
 our researcher would be happy to explain these levels and answer any questions so you can 
 choose the level you are most comfortable with. 
-[Upload picture to Github and Insert here].
+
+<img src ='../supplement_images/online_consent_image.png'>
 
 
 ## EMAIL/VERBAL CONSENT
