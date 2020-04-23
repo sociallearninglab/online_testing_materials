@@ -90,8 +90,8 @@ __NAME___
 
 ## 3.  Welcome and Directions Email
  
-[Send personal email to parents who have signed up ASAP, with **two attachments**: Zoom 
-instructions, and the Consent information, via 
+[Send personal email to parents who have signed up ASAP, with **two attachments**: [Zoom 
+instructions](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/SLL_Parent_Instruction_Guide_042020.key), and the [Consent information](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/SLL_Online_Consent_Form_042020.md), via 
 stanford.kidsonlinea@gmail.com, NOT via Calendly.]
 
 ```
