@@ -53,28 +53,28 @@ Click through the repository or any of the quick links in the Table of Contents 
 
 Before testing:
 
-  1. Lab IRB. (You can see our Parent Online Consent Form from [here] (insert link) <br>
+  1. Lab IRB. (You can see our Parent Online Consent Form from [here](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/SLL_Online_Consent_Form_042020.md)) <br>
   2. Set up Zoom: <br>
-    a) Researcher Instruction Guide. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/Lab%20Testing%20Online%20Prep%20Guide.key)) <br>
+    a) Researcher Instruction Guide. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/SLL_Researcher_Instruction_Guide_042020.key)) <br>
     b) Use a consistent virtual background. (Example [here](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/virtual_background.jpg))
   3. Recruiting parents: <br>
-    a) Recruitment Poster. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/SLL%20Participation%20Flyer.pdf)) <br>
-    b) Email templates.   
-    c) Parent Instruction guide. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/parent_instruction_guide.key)) 
+    a) Recruitment Flyer. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/SLL_Participation_Recruitment_Flyer_042020.pdf)) <br>
+    b) Email templates. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/SLL_Email_Templates_To_Parents_042020.md))   
+    c) Parent Instruction guide. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/Before_test_day/SLL_Parent_Instruction_Guide_042020.key)) 
 
 During the testing session:
 
   1. Establish rapport with children and introduce the study to parents.
-  2. Lab standardized calibration slides & sound check (with a short video clip of your choice). (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/Calibration_Part1.key))
-  3. Parental Consent. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/Parental_Consent.key))
-  4. Study specific video screen calibration slide. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/Calibration_Part2.key))
+  2. Lab standardized calibration & welcome slides. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/SLL_Calibration_Slides_Part1_042020.key))
+  3. Parental Consent. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/SLL_Parental_Consent_042020.key))
+  4. Study specific video screen calibration slides & sound check (with a short video clip of your choice). (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/SLL_Calibration_Slides_Part2_042020.key))
   5. Children Assent + study slides.
-  6. Feedback slides for testing. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/Feedback_Slides.key))
-     (You can also use this shortened version). (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/Shortened_Follow_Up.key))
+  6. Feedback slides for testing. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/SLL_Feedback_Slides_042020.key))
+     (You can also use this shortened version). (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/On_test_day/SLL_Shortened_Feedback_Slides_042020.key))
 
 After testing:
 
-  1. Certificates for children. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/After_test_day/Online%20Testing%20Certificate.pdf))
+  1. Certificates for children. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/After_test_day/SLL_Online_Testing_Certificate_042020.pdf))
   2. Lab-specific procedure for saving and storing video and other data files for analyses.
 
 ## Attribution
