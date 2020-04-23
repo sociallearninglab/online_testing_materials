@@ -16,7 +16,7 @@ e.g.,
 ```
 @misc{online_testing,
     author       = {Social Learning Lab},
-    title        = {{Online Testing: Startup Guide and Materials}},
+    title        = {{Online testing: Startup guide and materials}},
     month        = apr,
     year         = 2020,
     doi          = {10.5281/zenodo.3762737},
@@ -38,8 +38,8 @@ You can clone this repository ([instructions](https://help.github.com/en/github/
 
 ### Online testing demo
 
-Please watch this video for a demonstration of what an online testing session looks like from the parent's point of view:
-* [Demonstration video: parent's point of view](link_to_file)
+This video is an example online testing session recorded from the parent’s point of view:<br>
+* [Demonstration video (Parent View)](link_to_file)
 
 The boilerplate used in this study session (consenting, video calibration, feedback questions) and virtual background used by the experimenter can be downloaded from the [`on_test_day` folder](https://github.com/sociallearninglab/online_testing_materials/tree/master/On_test_day).
 
@@ -75,7 +75,7 @@ During the testing session:
 After testing:
 
   1. Certificates for children. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/After_test_day/Online%20Testing%20Certificate.pdf))
-  2. Save video recording of the Zoom session for further analyses.
+  2. Lab-specific procedure for saving and storing video and other data files for analyses.
 
 ## Attribution
 <p>
