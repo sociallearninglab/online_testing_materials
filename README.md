@@ -60,7 +60,7 @@ The boilerplate used in this study session (consenting, video calibration, feedb
 
 Before testing:
 
-  1. Lab IRB. (You can see our Parent Online Consent Form from [here](https://github.com/sociallearninglab/online_testing_materials/blob/master/1_before_testing/SLL_Online_Consent_Form_042020.md)) <br>
+  1. Lab IRB. (You can see our Parent Online Consent Form [here](https://github.com/sociallearninglab/online_testing_materials/blob/master/1_before_testing/SLL_Online_Consent_Form_042020.md)) <br>
   2. Set up Zoom: <br>
     a) Researcher Instruction Guide. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/1_before_testing/SLL_Researcher_Instruction_Guide_042020.key)) <br>
     b) Use a consistent virtual background. (Example [here](https://github.com/sociallearninglab/online_testing_materials/blob/master/1_before_testing/virtual_background.jpg))
