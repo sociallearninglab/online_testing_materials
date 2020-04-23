@@ -39,7 +39,8 @@ You can clone this repository ([instructions](https://help.github.com/en/github/
 ### Online testing demo
 
 This video is an example online testing session recorded from the parent’s point of view:<br>
-* [Demonstration video (Parent View)](link_to_file)
+* [Demonstration video (Parent View)](sll.stanford.edu/docs/SLL_OnlineTesting_ParticipantView.mov) (Or link to the video on [Databrary](https://nyu.databrary.org/volume/1127#panel-data))
+
 
 The boilerplate used in this study session (consenting, video calibration, feedback questions) and virtual background used by the experimenter can be downloaded from the [`on_test_day` folder](https://github.com/sociallearninglab/online_testing_materials/tree/master/On_test_day).
 
