@@ -50,7 +50,7 @@ Click through the repository or any of the quick links in the Table of Contents 
 ### Online testing demo
 
 This video is an example online testing session recorded from the participant’s point of view:<br>
-* [Demonstration video (Participant View)](https://nyu.databrary.org/volume/1127#panel-data)
+* [Demonstration video (Participant View)](https://nyu.databrary.org/volume/1127/slot/45331/-?asset=235884)
 
 The boilerplate used in this study session (consenting, video calibration, feedback questions) and virtual background used by the experimenter can be downloaded from the ([`2_during_testing` folder](https://github.com/sociallearninglab/online_testing_materials/tree/master/2_during_testing)).
 
@@ -77,7 +77,7 @@ During the testing session:
   4. Study specific video screen calibration slides & sound check (with a short video clip of your choice). (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/2_during_testing/SLL_Calibration_Slides_Part2_042020.key))
   5. Children Assent + study slides.
   6. Feedback slides for testing. (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/2_during_testing/SLL_Feedback_Slides_042020.key))
-     (You can also use this shortened version). (See our [example](https://github.com/sociallearninglab/online_testing_materials/blob/master/2_during_testing/SLL_Shortened_Feedback_Slides_042020.key))
+     (You can also use this [shortened version](https://github.com/sociallearninglab/online_testing_materials/blob/master/2_during_testing/SLL_Shortened_Feedback_Slides_042020.key)).
 
 After testing:
 
