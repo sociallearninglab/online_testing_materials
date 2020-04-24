@@ -46,15 +46,17 @@ The contents of this repository are organized chronologically: We have included 
 
 Click through the repository or any of the quick links in the Table of Contents to check out individual files. All materials are provided in their original form when possible (e.g., Keynote presentations) for your convenience to edit and reuse in your own studies. We will update testing materials in this repository periodically.
 
-
-### Online testing demo
-
-This video is a mock online testing session recorded from the participant’s point of view. The video features some of our lab members (Natalia Vélez and Xi Jia Zhou), so please use it for training purposes only, and do not post it publicly without checking in with us. <br>
-* [Demonstration video (Participant View)](https://nyu.databrary.org/volume/1127/slot/45331/-?asset=235884)
-
 The boilerplate used in this study session (consenting, video calibration, feedback questions) and virtual background used by the experimenter can be downloaded from the ([`2_during_testing` folder](https://github.com/sociallearninglab/online_testing_materials/tree/master/2_during_testing)).
 
+### Online testing demo
+* Example testing sessions (Recorded on local computer; link coming soon): 
+These are recordings from Zoom sessions with actual participants, recorded on local computer (recommended option). Recording shows shared screen with gallery view of participants, so you can see the child throughout the session. These participants gave us permission to use their videos for public access. For trainig purpose only; please do not re-distribute or post publicly.
 
+* [Example testing sessions (Recorded on cloud):](https://nyu.databrary.org/volume/1127/slot/45367/edit?asset=235974):
+These are recordings from Zoom sessions with actual participants, recorded on cloud. Recording shows only one thumbnail with speaker view (which means you can see the child only when the child is talking). These participants gave us permission to use their videos for public access. For trainig purpose only; please do not re-distribute or post publicly.
+
+* [Mock testing session (Participant View):](https://nyu.databrary.org/volume/1127/slot/45331/-?asset=235884)
+This video is a mock online testing session to show you the participant’s point of view (recorded using Quicktime screen recording). The video features Natalia Vélez and Xi Jia Zhou. For training purpose; please do not re-distribute or post publicly. <br>
 
 ### Online testing checklist
 
