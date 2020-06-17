@@ -88,4 +88,9 @@ After testing:
 <p>
 Images in introduction slides and parent instruction guide: <a href="https://www.freepik.com/free-photos-vectors/book">Book vector created by freepik - www.freepik.com</a> <br>
 Images in recruitment poster: <a href="https://www.canva.com"> Canva - www.canva.com</a> <br>
+    
+Funding sources: McDonnell Foundation Scholars Award and Jacobs Foundation Scholars Award to Hyowon Gweon.
 </p>
+
+
+
